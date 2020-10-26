@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52712370063",
+    "firebase_url": "https://login-afaa9.firebaseio.com",
+    "project_id": "login-afaa9",
+    "storage_bucket": "login-afaa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52712370063:android:15540f8a2ddbd8d428e5fa",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52712370063-b1ac71j1c4coi8up8dcs0unj3np05aa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2I6uSv7AqFrFzVdXK9PJNkBXJFLwNcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52712370063-b1ac71j1c4coi8up8dcs0unj3np05aa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
